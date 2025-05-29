@@ -11,3 +11,5 @@ The project's crosslinked websites:
 * https://www.mos-ak.org/open_dir
 * https://github.com/dwarning/VA-Models
 * https://si2.org/cmc-standard-models/
+
+This project was funded through the NGI0 Commons Fund, a fund established by NLnet with financial support from the European Commission's Next Generation Internet programme, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 101135429. Additional funding is made available by the Swiss State Secretariat for Education, Research and Innovation (SERI).
